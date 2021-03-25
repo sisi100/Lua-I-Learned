@@ -36,3 +36,4 @@ function localhoge()
 end
 localhoge() -- `cc_hoge`
 print(cc) -- nil, 呼べない
+
